@@ -24,7 +24,7 @@ description              : "Site Web Officiel du Centre Culturel de Laval Khalid
 url                      : https://ccil-kbw.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : ccil-kbw/ccil-kbw.github.io
-teaser                   : # 
+teaser                   : /assets/images/header.png
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -86,7 +86,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : /assets/images/header.png
+og_image                 : #
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
